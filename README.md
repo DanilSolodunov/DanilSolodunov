@@ -93,6 +93,11 @@
   </a>
 </div>
 
+###
+
+<h3 align="left">🔥   Мои очивки:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanilSolodunov&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
