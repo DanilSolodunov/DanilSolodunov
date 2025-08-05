@@ -78,7 +78,7 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilSolodunov&show_icons=true)
 
 
 ## Связь со мной:
