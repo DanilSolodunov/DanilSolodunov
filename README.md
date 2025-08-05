@@ -3,7 +3,7 @@
 </div>  
 
 
-## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=000&color=BAA0F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%E2%9C%8B;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%94%D0%B0%D0%BD%D0%B8%D0%BB+%D0%B8+%D1%8D%D1%82%D0%BE+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C+GitHub!%F0%9F%98%8E)](https://git.io/typing-svg)</div>
+## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=000&theme=novatorem&color=BAA0F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%E2%9C%8B;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%94%D0%B0%D0%BD%D0%B8%D0%BB+%D0%B8+%D1%8D%D1%82%D0%BE+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C+GitHub!%F0%9F%98%8E)](https://git.io/typing-svg)</div>
 
 
 - 🔭 Сейчас работаю над pet project "цветочный магазин"
@@ -81,7 +81,9 @@
 В своей работе я всегда ориентируюсь на достижение наилучшего результата, поэтому уделяю большое внимание, архитектурному проектированию и тщательному тестированию кода. Мне нравится решать сложные технические задачи, постоянно расширяя свои знания и находя новые, более эффективные способы реализации.
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kkgmzlk7dcw72vk4zl6vhwvyia&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+## Сейчас играет:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kkgmzlk7dcw72vk4zl6vhwvyia&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
