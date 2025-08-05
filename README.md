@@ -80,9 +80,8 @@
 
 В своей работе я всегда ориентируюсь на достижение наилучшего результата, поэтому уделяю большое внимание, архитектурному проектированию и тщательному тестированию кода. Мне нравится решать сложные технические задачи, постоянно расширяя свои знания и находя новые, более эффективные способы реализации.
 
-<br/>  
-
-<br/>  
+###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kkgmzlk7dcw72vk4zl6vhwvyia&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
