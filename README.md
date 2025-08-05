@@ -85,10 +85,11 @@
 <div align="center"><img src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" /></div>  
 
 <br/>  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanilSolodunov&theme=onedark)](https://github.com/DanilSolodunov)
-
-<br/>  
+<div align="center">
+  <a href="https://t.me/jupolki22" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
