@@ -82,8 +82,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" /></div>  
-
 <br/>  
 
 ### Связь со мной:
