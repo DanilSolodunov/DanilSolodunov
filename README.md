@@ -78,25 +78,12 @@
 
 <br/>
 
+## В кратции о себе:
+Я являюсь Java backend-разработчиком с более чем 2-летним стажем работы. За это время я накопил обширные знания и практические навыки в таких ключевых технологиях, как Java, Spring, Spring Boot, JPA и Hibernate.
 
-## Связь со мной:
-<div align="center">
-<a href="https://web.telegram.org/#@jupolki22" target="_blank">
-<img src=https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg#/media/File:Telegram_text_logo.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/DanilSolodunov/My-profile/tree/Main/src/main/java/org/example" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+Мой приоритет - это создание высококачественных, надежных и масштабируемых проектов. Именно поэтому я активно применяю современные подходы и инструменты, такие как REST, Git, Maven, Gradle, Nexus и Docker. Я постоянно совершенствую свои навыки, чтобы быть в курсе всех последних тенденций в сфере IT-разработки. 
 
-
-<br/>  
-
-
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-<!-- BLOG-POST-LIST:END -->  
+В своей работе я всегда ориентируюсь на достижение наилучшего результата, поэтому уделяю большое внимание, архитектурному проектированию и тщательному тестированию кода. Мне нравится решать сложные технические задачи, постоянно расширяя свои знания и находя новые, более эффективные способы реализации.
 
 <br/>  
 
