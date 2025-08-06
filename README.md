@@ -98,6 +98,15 @@
   <a href="https://t.me/jupolki22" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+ <a href="https://m.vk.com/danracer" target="_blank">
+  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" height="25" alt="vk logo" />
+ </a>
+ <a href="https://wa.me/79996308609?text=Добрый%20день!%20Увидели%20ваш%20профиль%20на%20GitHub%20и%20решили%20связаться%20с%20вами" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="whatsap logo" />
+ </a>
+ <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="google logo" />
+ </a>
 </div>
 
 ###
