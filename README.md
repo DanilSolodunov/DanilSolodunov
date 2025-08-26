@@ -79,7 +79,7 @@
 ###
 
 ## Сейчас играет:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kkgmzlk7dcw72vk4zl6vhwvyia&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31syrwlfcdectrt2dfvlsie4moqu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
