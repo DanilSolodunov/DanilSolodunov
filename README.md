@@ -78,10 +78,6 @@
 
 ###
 
-## Сейчас играет:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31syrwlfcdectrt2dfvlsie4moqu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-###
 
 <p align="center">
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/c0664da66a69bd189501da4b354af6a2ba9f5223/assets/github-snake.svg" alt="snake"/>
